@@ -1,11 +1,10 @@
-#Setup
-
-
+# Setup
 
 install Node.js from downloaded package
 install the grunt client (make sure you use sudo or you will have to install node all over)
 
 (sudo npm install grunt-cli -g)
+(')
 
 # NPM install takes the contents of package.json which has a list of project modules and dependencies which the project needs. It creates a folder called node_modules in the root directory. with all the modules mentioned in package.son
 
